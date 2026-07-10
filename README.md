@@ -368,7 +368,7 @@ MIT License - feel free to use this project for learning and portfolio purposes.
 
 ## Author
 
-**Mohammad Akariya**
+**Madhuri Nallaboyina**
 - GitHub: [@MadhuriN-369](https://github.com/MadhuriN-369)
 - LinkedIn: [Madhuri Nallaboyina](https://www.linkedin.com/in/madhuri-nallaboyina)
 - Email: madhuri99980@gmail.com
